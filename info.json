@@ -1,0 +1,9 @@
+{
+    "name": "widgets",
+    "version": "1.0.0",
+    "title": "Widgets",
+    "author": "usbTypeF",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "This mod adds widgets to the game.\n\nCollect as many as you can!"
+  }
