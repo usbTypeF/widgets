@@ -84,7 +84,7 @@ local megawidgetrecipe = {
   ingredients = {
     {type = "item", name = "kilowidget", amount = 1024},
     {type = "item", name = "processing-unit", amount = 16},
-    {type = "item", name = "selector-combinatgor", amount = 16},
+    {type = "item", name = "selector-combinator", amount = 16},
     {type = "item", name = "low-density-structure", amount = 16}
   },
   results = {{type = "item", name = "megawidget", amount = 1}}
